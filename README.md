@@ -4,8 +4,11 @@ Django rest API for viewing bank information like branch name, address, IFSC cod
 ## Installation Steps:
 
 1. Create Virtual Environment
+   
 
    ```python -m venv env```
+   
+   Note: for python 3.X and env(virtual environment name) is included in gitignore.
 
 2. Activate Virtual Environment 
 
