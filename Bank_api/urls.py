@@ -15,9 +15,9 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path, include
-from bank.api import views
+# from bank.api import views
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('api/',views.Banklist.as_view()),
-    path('api/list/',views.BankListView.as_view(),name='list')
+    # path('api/',views.Banklist.as_view()),
+    # path('api/list/',views.BankListView.as_view(),name='list')
 ]
