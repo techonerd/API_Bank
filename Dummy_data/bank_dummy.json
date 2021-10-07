@@ -1,0 +1,2491 @@
+[{
+        "ifsc": "ABHY0065001",
+        "bank_id": 60,
+        "branch": "RTGS-HO",
+        "address": "ABHYUDAYA BANK BLDG., B.NO.71, NEHRU NAGAR, KURLA (E), MUMBAI-400024",
+        "city": "MUMBAI",
+        "district": "GREATER MUMBAI",
+        "state": "MAHARASHTRA",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065002",
+        "bank_id": 60,
+        "branch": "ABHYUDAYA NAGAR",
+        "address": "ABHYUDAYA EDUCATION SOCIETY, OPP. BLDG. NO. 18, ABHYUDAYA NAGAR, KALACHOWKY, MUMBAI - 400033",
+        "city": "MUMBAI",
+        "district": "GREATER MUMBAI",
+        "state": "MAHARASHTRA",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065003",
+        "bank_id": 60,
+        "branch": "BAIL BAZAR",
+        "address": "KMSPM'S SCHOOL, WADIA ESTATE, BAIL BAZAR-KURLA(W), MUMBAI-400070",
+        "city": "MUMBAI",
+        "district": "GREATER MUMBAI",
+        "state": "MAHARASHTRA",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065004",
+        "bank_id": 60,
+        "branch": "BHANDUP",
+        "address": "CHETNA APARTMENTS, J.M.ROAD, BHANDUP, MUMBAI-400078",
+        "city": "MUMBAI",
+        "district": "GREATER MUMBAI",
+        "state": "MAHARASHTRA",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065005",
+        "bank_id": 60,
+        "branch": "DARUKHANA",
+        "address": "POTIA IND.ESTATE, REAY ROAD (E), DARUKHANA, MUMBAI-400010",
+        "city": "MUMBAI",
+        "district": "GREATER MUMBAI",
+        "state": "MAHARASHTRA",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065006",
+        "bank_id": 60,
+        "branch": "FORT",
+        "address": "ABHYUDAYA BANK BLDG., 251, PERIN NARIMAN STREET, FORT, MUMBAI-400001",
+        "city": "MUMBAI",
+        "district": "GREATER MUMBAI",
+        "state": "MAHARASHTRA",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065007",
+        "bank_id": 60,
+        "branch": "GHATKOPAR",
+        "address": "UNIT NO 2 & 3, SILVER HARMONY BLDG,NEW MANIKLAL ESTATE, GHATKOPAR (WEST), MUMBAI-400086",
+        "city": "MUMBAI",
+        "district": "GREATER MUMBAI",
+        "state": "MAHARASHTRA",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065008",
+        "bank_id": 60,
+        "branch": "KANJUR",
+        "address": "BHANDARI CO-OP. HSG. SOCIETY, KANJUR VILLAGE, KANJUR (EAST), MUMBAI-400078",
+        "city": "MUMBAI",
+        "district": "GREATER MUMBAI",
+        "state": "MAHARASHTRA",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065009",
+        "bank_id": 60,
+        "branch": "NEHRU NAGAR",
+        "address": "ABHYUDAYA BANK BLDG., B.NO.71, NEHRU NAGAR, KURLA (E), MUMBAI-400024",
+        "city": "MUMBAI",
+        "district": "GREATER MUMBAI",
+        "state": "MAHARASHTRA",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065010",
+        "bank_id": 60,
+        "branch": "PAREL",
+        "address": "SHRAMA SAFALYA, 63 G.D.AMBEKAR MARG, PAREL VILLAGE, MUMBAI-400012",
+        "city": "MUMBAI",
+        "district": "GREATER MUMBAI",
+        "state": "MAHARASHTRA",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065011",
+        "bank_id": 60,
+        "branch": "SEWRI",
+        "address": "NAVNIDHI INDUSTRIAL ESTATE, ACHARYA DONDHE MARG, SEWRI, MUMBAI-400015",
+        "city": "MUMBAI",
+        "district": "GREATER MUMBAI",
+        "state": "MAHARASHTRA",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065012",
+        "bank_id": 60,
+        "branch": "WADALA",
+        "address": "B.P.T.MARKET BLDG., NADKARNI PARK, WADALA (EAST), MUMBAI-400037",
+        "city": "MUMBAI",
+        "district": "GREATER MUMBAI",
+        "state": "MAHARASHTRA",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065013",
+        "bank_id": 60,
+        "branch": "WORLI",
+        "address": "LANDMARK,NEXT TO MAHINDRA TOWERS, PLOT NO.1, J M BHOSLE MARG, WORLI, MUMBAI-400018",
+        "city": "MUMBAI",
+        "district": "GREATER MUMBAI",
+        "state": "MAHARASHTRA",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065014",
+        "bank_id": 60,
+        "branch": "MUMBRA",
+        "address": "RIZVI APARTMENTS, OPP. RAILWAY STATION, MUMBRA-400612",
+        "city": "MUMBAI",
+        "district": "GREATER MUMBAI",
+        "state": "MAHARASHTRA",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065015",
+        "bank_id": 60,
+        "branch": "TURBHE",
+        "address": "A.P.M.C.MARKET, ADMINISTRATIVE BLDG, TURBHE, NAVI MUMBAI-400705",
+        "city": "MUMBAI",
+        "district": "GREATER MUMBAI",
+        "state": "MAHARASHTRA",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065016",
+        "bank_id": 60,
+        "branch": "VASHI",
+        "address": "ABHYUDAYA BANK BLDG., SECTOR 17, VASHI, NAVI MUMBAI-400705",
+        "city": "MUMBAI",
+        "district": "GREATER MUMBAI",
+        "state": "MAHARASHTRA",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065017",
+        "bank_id": 60,
+        "branch": "MOBILE BANK",
+        "address": "ABHYUDAYA BANK BLDG., SECTOR 17, VASHI, NAVI MUMBAI-400703",
+        "city": "MUMBAI",
+        "district": "GREATER MUMBAI",
+        "state": "MAHARASHTRA",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065018",
+        "bank_id": 60,
+        "branch": "NEW PANVEL",
+        "address": "ABHYUDAYA BANK BLDG., SECTOR 17, NEW PANVEL-410206",
+        "city": "MUMBAI",
+        "district": "GREATER MUMBAI",
+        "state": "MAHARASHTRA",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065019",
+        "bank_id": 60,
+        "branch": "KALAMBOLI",
+        "address": "BLDG F-4, SHOP NO 17-20, SECTOR 3 EB, KALAMBOLI, NAVI MUMBAI-410218",
+        "city": "MUMBAI",
+        "district": "GREATER MUMBAI",
+        "state": "MAHARASHTRA",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065020",
+        "bank_id": 60,
+        "branch": "DHARAVI",
+        "address": "WESTERN INDIA TANNERIES, SION DHARAVI ROAD, MUMBAI-400017",
+        "city": "MUMBAI",
+        "district": "GREATER MUMBAI",
+        "state": "MAHARASHTRA",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065021",
+        "bank_id": 60,
+        "branch": "MALAD EAST",
+        "address": "148 ELLORA SHOPPING CENTRE, DAFTARY ROAD, MALAD (EAST), MUMBAI-400097",
+        "city": "MUMBAI",
+        "district": "GREATER MUMBAI",
+        "state": "MAHARASHTRA",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065022",
+        "bank_id": 60,
+        "branch": "CBD BELAPUR",
+        "address": "SECTOR-3, CHANAKYA SHOPPING CENTRE, BELAPUR (CBD), NAVI MUMBAI-400614",
+        "city": "MUMBAI",
+        "district": "GREATER MUMBAI",
+        "state": "MAHARASHTRA",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065023",
+        "bank_id": 60,
+        "branch": "BHIWANDI",
+        "address": "BLDG F-1,GOPAL NAGAR,BHIWANDI-KALYAN ROAD, BHIWANDI, 421302",
+        "city": "MUMBAI",
+        "district": "GREATER MUMBAI",
+        "state": "MAHARASHTRA",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065024",
+        "bank_id": 60,
+        "branch": "BORIVALI",
+        "address": "RATNADEEP APARTMENTS, CARTER ROAD NO.1, BORIVLI (EAST), MUMBAI-400066",
+        "city": "MUMBAI",
+        "district": "GREATER MUMBAI",
+        "state": "MAHARASHTRA",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065025",
+        "bank_id": 60,
+        "branch": "HILL ROAD",
+        "address": "HILL-N-DALE, HILL ROAD, NR.BANDRA POLICE STATION, BANDRA (W), MUMBAI-400050",
+        "city": "MUMBAI",
+        "district": "GREATER MUMBAI",
+        "state": "MAHARASHTRA",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065026",
+        "bank_id": 60,
+        "branch": "KHER NAGAR",
+        "address": "JANATA EDUCATION SOC. PREMISES, KHER NAGAR, BANDRA (E), MUMBAI-400051",
+        "city": "MUMBAI",
+        "district": "GREATER MUMBAI",
+        "state": "MAHARASHTRA",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065027",
+        "bank_id": 60,
+        "branch": "KANDIVLI-EAST",
+        "address": "GUNDECHA INDL.COMPLEX, AKURLI RD, KANDIVLI (E), MUMBAI-400101",
+        "city": "MUMBAI",
+        "district": "GREATER MUMBAI",
+        "state": "MAHARASHTRA",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065028",
+        "bank_id": 60,
+        "branch": "SHERLY RAJAN",
+        "address": "KHAIR HOUSE, SHERLY RAJAN RD, BANDRA (WEST), MUMBAI-400050",
+        "city": "MUMBAI",
+        "district": "GREATER MUMBAI",
+        "state": "MAHARASHTRA",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065029",
+        "bank_id": 60,
+        "branch": "GANESH NAGAR",
+        "address": "NAVJIVAN VIDYA MANDIR, GANESH NAGAR, BHANDUP (W), MUMBAI-400078.",
+        "city": "MUMBAI",
+        "district": "GREATER MUMBAI",
+        "state": "MAHARASHTRA",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065030",
+        "bank_id": 60,
+        "branch": "MALAD WEST",
+        "address": "ST.JUDE'S HIGH SCHOOL, KHARODI, MALAD(W), MUMBAI,400095",
+        "city": "MUMBAI",
+        "district": "GREATER MUMBAI",
+        "state": "MAHARASHTRA",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065031",
+        "bank_id": 60,
+        "branch": "NERUL",
+        "address": "ABHYUDAYA BANK BLDG. PLOT NO.3A, SECTOR 15, NERUL, NAVI MUMBAI-400706",
+        "city": "MUMBAI",
+        "district": "GREATER MUMBAI",
+        "state": "MAHARASHTRA",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065032",
+        "bank_id": 60,
+        "branch": "AIROLI",
+        "address": "ABHYUDAYA BANK BLDG., PLOT NO.26 SECTOR 17, AIROLI, NAVI MUMBAI-400701",
+        "city": "MUMBAI",
+        "district": "GREATER MUMBAI",
+        "state": "MAHARASHTRA",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065034",
+        "bank_id": 60,
+        "branch": "ANDHERI",
+        "address": "SHRADHA SHOPPING CENTRE, OLD NAGARDAS ROAD, ANDHERI (E), MUMBAI-400069",
+        "city": "MUMBAI",
+        "district": "GREATER MUMBAI",
+        "state": "MAHARASHTRA",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065035",
+        "bank_id": 60,
+        "branch": "NHAVA SHEVA",
+        "address": "J.N.P.T. SHOPPING COMPLEX, NHAVA SHEVA, NAVI MUMBAI-400707",
+        "city": "MUMBAI",
+        "district": "GREATER MUMBAI",
+        "state": "MAHARASHTRA",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065036",
+        "bank_id": 60,
+        "branch": "BANKING COMPLEX",
+        "address": "UNIT NO.7 SECTOR 19, PHASE II, APMC, VASHI, NAVI MUMBAI-400705",
+        "city": "MUMBAI",
+        "district": "GREATER MUMBAI",
+        "state": "MAHARASHTRA",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065037",
+        "bank_id": 60,
+        "branch": "KOPARKHAIRNE",
+        "address": "UNIT NO.1, PLOT 24-25 SECTOR 6, KOPARKHAIRANE, NAVI MUMBAI-400701",
+        "city": "MUMBAI",
+        "district": "GREATER MUMBAI",
+        "state": "MAHARASHTRA",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065038",
+        "bank_id": 60,
+        "branch": "DADAR",
+        "address": "GURUKRIPA CHS LTD., OPP. PLAZA CINEMA, DADAR (W), MUMBAI-400028.",
+        "city": "MUMBAI",
+        "district": "GREATER MUMBAI",
+        "state": "MAHARASHTRA",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065039",
+        "bank_id": 60,
+        "branch": "MULUND",
+        "address": "NEELKANTHDHARA, NETAJI SUBHASHCHANDRA ROAD, MULUND (W), MUMBAI-400080.",
+        "city": "MUMBAI",
+        "district": "GREATER MUMBAI",
+        "state": "MAHARASHTRA",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065040",
+        "bank_id": 60,
+        "branch": "CHARAI",
+        "address": "MUMBA DEVI APT., JOSHIWADA, CHARAI, VEER SAVARKAR PATH, THANE WEST 400601",
+        "city": "MUMBAI",
+        "district": "GREATER MUMBAI",
+        "state": "MAHARASHTRA",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065041",
+        "bank_id": 60,
+        "branch": "LOKMANYA NAGAR",
+        "address": "PANCHPAKHADI SAMARTHA CHS LTD., LOKMANYA NAGAR, THANE (W)-400608",
+        "city": "MUMBAI",
+        "district": "GREATER MUMBAI",
+        "state": "MAHARASHTRA",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065042",
+        "bank_id": 60,
+        "branch": "KHARGHAR",
+        "address": "SHOP NO 66/67, PATEL HERITAGE, PLOT NO 15/17, SECTOR 7, KHARGHAR, NAVI MUMBAI 410210",
+        "city": "MUMBAI",
+        "district": "RAIGAD",
+        "state": "MAHARASHTRA",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065043",
+        "bank_id": 60,
+        "branch": "VASAI",
+        "address": "OM SHIVSHAKTI COMPLEX, VAJRESHWARI ROAD, VALIV VILLAGE, VASAI ROAD (EAST), VASAI 401208",
+        "city": "VASAI",
+        "district": "THANE",
+        "state": "MAHARASHTRA",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065044",
+        "bank_id": 60,
+        "branch": "GHANSOLI",
+        "address": "SHREE MANOSHI COMPLEX, PLOT NO.5& 6, SECTOR-3, GHANSOLI, NAVI MUMBAI GHANSOLI- 410 701.",
+        "city": "NAVI MUMBAI",
+        "district": "THANE",
+        "state": "MAHARASHTRA",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065045",
+        "bank_id": 60,
+        "branch": "KAMOTHE",
+        "address": "DHARTI COMPLEX, SHOP NO.7,8,9310 & 11, PLOT NO. 60/61, SECTOR 18, KAMOTHE II, PANVEL-",
+        "city": "NAVI MUMBAI",
+        "district": "RAIGAD",
+        "state": "MAHARASHTRA",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065046",
+        "bank_id": 60,
+        "branch": "BHAYANDAR",
+        "address": "SHOP NO. 7,8,9,&107 TO 111 ON GR. FLOOR & 1ST FLOOR. MALHAR ARCADE, CODDEV VILLAGE, NAVGHAR PHATAK ROAD, BHAYANDAR (E), DIST. THANE, 401101",
+        "city": "THANE",
+        "district": "THANE",
+        "state": "MAHARASHTRA",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065047",
+        "bank_id": 60,
+        "branch": "DAHISAR EAST",
+        "address": "GR. FLOOR, MADHURAM HALL, HARISHANKAR JOSHI ROAD, DAHISAR (E), MUMBAI - 400 068",
+        "city": "MUMBAI",
+        "district": "GREATER MUMBAI",
+        "state": "MAHARASHTRA",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065048",
+        "bank_id": 60,
+        "branch": "KALYAN-WEST",
+        "address": "FLOWER VALLEY, KHADAKPADA, KALYAN (W), DIST. THANE 421 301",
+        "city": "THANE",
+        "district": "THANE",
+        "state": "MAHARASHTRA",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065049",
+        "bank_id": 60,
+        "branch": "DOMBIVLI-WEST",
+        "address": "FIRST FLOOR, JAIKUL ARCADE, MANPADA ROAD, DOMBIVLI (E) 421201",
+        "city": "THANE",
+        "district": "THANE",
+        "state": "MAHARASHTRA",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "SBIN0004722",
+        "bank_id": 1,
+        "branch": "CHEGUNTA",
+        "address": "CHEGUNTA",
+        "city": "CHEGUNTA",
+        "district": "MEDAK",
+        "state": "ANDHRA PRADESH",
+        "bank_name": "STATE BANK OF INDIA"
+    },
+    {
+        "ifsc": "ABHY0065050",
+        "bank_id": 60,
+        "branch": "OLD PANVEL",
+        "address": "SHOP NO 1 & 2, KANAK VITHAL, PLOT NO.25, OLD PANVEL, DIST RAIGAD 410 206",
+        "city": "RAIGAD",
+        "district": "RAIGAD",
+        "state": "MAHARASHTRA",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065051",
+        "bank_id": 60,
+        "branch": "KANDIVALI (WEST)",
+        "address": "KANDIVLI (W) BRANCH, SHOP NO.7, VIJAYBHARTI CO-OP. HSG. SOCIETY, SECTOR - II CHARKOP, KANDIVALI (W), MUMBAI 400067",
+        "city": "MUMBAI",
+        "district": "MUMBAI",
+        "state": "MAHARASHTRA",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065052",
+        "bank_id": 60,
+        "branch": "MIRA ROAD (EAST)",
+        "address": "SHOP NO. 6,7 & 8, GROUND FLOOR, BUILDING NO. A-63, SECTOR - 1, SHANTI NAGAR, MIRA ROAD (E), DIST THANE 401107.",
+        "city": "BHAYANDAR",
+        "district": "THANE",
+        "state": "MAHARASHTRA",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065053",
+        "bank_id": 60,
+        "branch": "BADLAPUR (EAST)",
+        "address": "KULGAON GRIHNIRMAN SOCIETY, PLOT NO. 36, GANDHI CHOWK, NEAR KATDHARE HALL, KULGAON, BADLAPUR (E), DIST. THANE 421503",
+        "city": "KALYAN",
+        "district": "THANE",
+        "state": "MAHARASHTRA",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065054",
+        "bank_id": 60,
+        "branch": "CHEMBUR",
+        "address": "SHOP NO.12 TO 19, BLDG. NO. 2, TILAKNAGAR SHRAMIK CO-OP HSG SOCIETY LTD., TILAKNAGAR, CHEMBUR, MUMBAI 400089.",
+        "city": "MUMBAI",
+        "district": "GREATER MUMBAI",
+        "state": "MAHARASHTRA",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065055",
+        "bank_id": 60,
+        "branch": "VIRAR",
+        "address": "GRND & 1ST FLOOR, MATAJI KRUPA, OPP. MAHANAGARPALIKA LIBRARY, PHOOL PADA ROAD,VIRAR (E), DIST THANE 401303",
+        "city": "THANE",
+        "district": "THANE",
+        "state": "MAHARASHTRA",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065056",
+        "bank_id": 60,
+        "branch": "SEAWOOD",
+        "address": "SHOP NO. 13 TO 15, GIRIRAJ CO-OP HSG SOCIETY LTD., PLOT NO.7&8, SECTOR NO.44, NRI SEAWOOD ROAD, SEAWOOD, NERUL 400706",
+        "city": "MUMBAI",
+        "district": "GREATER MUMBAI",
+        "state": "MAHARASHTRA",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065057",
+        "bank_id": 60,
+        "branch": "OWALE",
+        "address": "SIDDHIVINAYAK ARCADE, KAILASH TOWER, OWALE VILLAGE, OWALA NAKA, GHODBUNDER ROAD, THANE 400605.",
+        "city": "THANE",
+        "district": "THANE",
+        "state": "MAHARASHTRA",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065058",
+        "bank_id": 60,
+        "branch": "ANTOP HILL",
+        "address": "SHOP NO..34 & 35, GROUND FLOOR, BLDG NO. B-2, KALPAK ESTATE, SHAIKH MISTRY ROAD, ANTOP HILL, MUMBAI 400037",
+        "city": "MUMBAI",
+        "district": "GREATER MUMBAI",
+        "state": "MAHARASHTRA",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065059",
+        "bank_id": 60,
+        "branch": "NALLASOPARA",
+        "address": "SHOP NO. 1 & 2, GROUND FLOOR, OLIVE APARTMENT, BLDG.NO.06, SECTOR VII, NALLASOPARA, TAL VASAI, DIST THANE.",
+        "city": "THANE",
+        "district": "THANE",
+        "state": "MAHARASHTRA",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065060",
+        "bank_id": 60,
+        "branch": "DIVALE CBD",
+        "address": "SHOP NO 8A & 9, GROUND FLOOR, SAI SANGAM, SECTOR-15, SAKAL BHAVAN MARG, CBD BELAPUR, NAVI MUMBAI 400 614",
+        "city": "MUMBAI",
+        "district": "GREATER MUMBAI",
+        "state": "MAHARASHTRA",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065061",
+        "bank_id": 60,
+        "branch": "KHANDA COLONY",
+        "address": "SHOP NO.30 TO 33, GROUND FLOOR, SHREEJI SANGH, SECTOR - 7, PLOT NO. 15/16 KHANDA COLONY, PANVEL 410206",
+        "city": "PANVEL",
+        "district": "RAIGAD",
+        "state": "MAHARASHTRA",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065062",
+        "bank_id": 60,
+        "branch": "KALWA",
+        "address": "MILESTONE CORPORATE PARK, DATTAWADI, OLD MUMBAI ROAD, KALWA (W) DIST. THANE 400 605",
+        "city": "THANE",
+        "district": "THANE",
+        "state": "MAHARASHTRA",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065063",
+        "bank_id": 60,
+        "branch": "DOMBIVLI (WEST)",
+        "address": "JANKI HEIGHTS OPP. SHIV SENA SHAKA, DEENDAYAL ROAD, DOMBIVALI (WEST), DIS THANE 421202",
+        "city": "DOMBIVLI",
+        "district": "THANE",
+        "state": "MAHARASHTRA",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065064",
+        "bank_id": 60,
+        "branch": "GOREGAON WEST",
+        "address": "SHOP NO.2,3,5 & 6A, VRINDAVAN CHS LTD., BUILDING NO.9, SHASTRI NAGAR ROAD NO.1, GOREGAON (W), MUMBAI 400 104.",
+        "city": "MUMBAI",
+        "district": "GREATER BOMBAY",
+        "state": "MAHARASHTRA",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065065",
+        "bank_id": 60,
+        "branch": "JOGESHWARI (E)",
+        "address": "BAL VIKAS SCHOOL BUILDING, GROUND FLOOR, MHADA COLONY, SARVODAYA NAGAR, JOGESHWARI (E), MUMBAI 400 060",
+        "city": "MUMBAI",
+        "district": "GREATER BOMBAY",
+        "state": "MAHARASHTRA",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065066",
+        "bank_id": 60,
+        "branch": "KALYAN (E)",
+        "address": "KHUSHI HEIGHTS, POONA LINK ROAD, OPP. NITIN RAJ HOTEL, KATEMANIVALI, KALYAN (E), DIST. THANE - 421 306.",
+        "city": "KALYAN",
+        "district": "THANE",
+        "state": "MAHARASHTRA",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065067",
+        "bank_id": 60,
+        "branch": "DIVA (E)",
+        "address": "SHREE KRISHNA PARK, NEAR SHIV SENA SHAKA, DIVA (E), DIST. THANE - 400 612.",
+        "city": "THANE",
+        "district": "THANE",
+        "state": "MAHARASHTRA",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065068",
+        "bank_id": 60,
+        "branch": "ANJUR PHATA",
+        "address": "SOM SHIV PLAZA, ANJUR PHATA, KAMATGHAR, AGRA ROAD, BHIWANDI - 421 302.",
+        "city": "BHIWANDI",
+        "district": "THANE",
+        "state": "MAHARASHTRA",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065069",
+        "bank_id": 60,
+        "branch": "MARVE LINK ROAD",
+        "address": "SHOP NO. S-109, RAJIV GANDHI COMMERCIAL COMPLEX, EKTA NAGAR, CHARKOP MARVE LINK ROAD, KANDIVLI (W), MUMBAI - 400 067",
+        "city": "MUMBAI",
+        "district": "GREATER BOMBAY",
+        "state": "MAHARASHTRA",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065070",
+        "bank_id": 60,
+        "branch": "LOWER PAREL",
+        "address": "BLOCK NO.12, GROUND FLOOR, DHANRAJ MILL COMPOUND, SITARAM JADHAV MARG, LOWER PAREL, MUMBAI - 400 013.",
+        "city": "MUMBAI",
+        "district": "GREATER BOMBAY",
+        "state": "MAHARASHTRA",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065071",
+        "bank_id": 60,
+        "branch": "LALBAUG",
+        "address": "SHOP NO. 6, 7, 8 & 9, GROUND FLOOR, \"TAMBAWALA BUILDING NO.1\", 205, KALACHOWKY ROAD, D. L. MARG, LALBAUG, MUMBAI - 400 012",
+        "city": "MUMBAI",
+        "district": "GREATER BOMBAY",
+        "state": "MAHARASHTRA",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065072",
+        "bank_id": 60,
+        "branch": "VIKHROLI (EAST)",
+        "address": "SHOP NO. 3, B WING, BUILDING NO. 87, \"KANNAMWAR NAGAR RAIGAD CO-OP. HSG. SOC. LTD., KANNAMWAR NAGAR, VIKHROLI (E), MUMBAI - 400 083",
+        "city": "MUMBAI",
+        "district": "GREATER BOMBAY",
+        "state": "MAHARASHTRA",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065073",
+        "bank_id": 60,
+        "branch": "VIKHROLI W",
+        "address": "SHOP NO.1, MAYFIAR SYMPHONY SPRING, PARKSITE, GODREJ, HIRANANDANI LINK RD., VIKHROLI WEST, MUMBAI 400079",
+        "city": "MUMBAI",
+        "district": "GREATER BOMBAY",
+        "state": "MAHARASHTRA",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065074",
+        "bank_id": 60,
+        "branch": "KAUSA MUMBRA",
+        "address": "VIRANI BUSINESS CENTRE, SHOP NO. 1,2,3,4, PLOT NO. 96 BY 2, OPP BHARAT GEARS CO., KAUSA, DIST-THANE- 400612",
+        "city": "THANE",
+        "district": "THANE",
+        "state": "MAHARASHTRA",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065075",
+        "bank_id": 60,
+        "branch": "ULWE",
+        "address": "SHOP NO. 1,2,3 PRATHMESH PRIDE, PLOT NO. 06, SECTOR 19, ULWE, TAL  PANVEL, DIST RAIGAD  410206",
+        "city": "PANVEL",
+        "district": "RAIGAD",
+        "state": "MAHARASHTRA",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065076",
+        "bank_id": 60,
+        "branch": "KURLA (W)",
+        "address": "SHOP NO. 1 AND 2, SANGHAVI PALACE, BELGRAMI ROAD, KURLA W, MUMBAI - 400070",
+        "city": "MUMBAI",
+        "district": "GREATER BOMBAY",
+        "state": "MAHARASHTRA",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065077",
+        "bank_id": 60,
+        "branch": "PEN",
+        "address": "SHOP NO.4 AND 6, REDWOOD CITY PLAZA, PLOT NO. C 13, SURVEY NO 242B, ICE FACTORY, PEN 402107.",
+        "city": "PEN",
+        "district": "RAIGAD",
+        "state": "MAHARASHTRA",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065101",
+        "bank_id": 60,
+        "branch": "PUNE SERVICE BRANCH",
+        "address": "598  DHANVANT PLAZA BHUDWAR PETH PUNE- 411002",
+        "city": "PUNE",
+        "district": "PUNE",
+        "state": "MAHARASHTRA",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065102",
+        "bank_id": 60,
+        "branch": "NANA PETH",
+        "address": "355, NANA PETH, PUNE-411002",
+        "city": "PUNE",
+        "district": "PUNE",
+        "state": "MAHARASHTRA",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065103",
+        "bank_id": 60,
+        "branch": "LAXMI ROAD",
+        "address": "867, BUDHWAR PETH, LAXMI ROAD, PUNE-411002",
+        "city": "PUNE",
+        "district": "PUNE",
+        "state": "MAHARASHTRA",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065104",
+        "bank_id": 60,
+        "branch": "YERWADA",
+        "address": "OM MAHAVIR CHS, SHOP NO. D1-2-3, SURVEY NO. 1-A, PUNE NAGAR RD., YERWADA, PUNE-411006",
+        "city": "PUNE",
+        "district": "PUNE",
+        "state": "MAHARASHTRA",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065105",
+        "bank_id": 60,
+        "branch": "PIMPRI",
+        "address": "SUNSHINE MARKS, CTS NO.4840, MUMBAI-PUNE RD, OPP B AMBEDKAR STATUE, PIMPRI, PUNE-411018",
+        "city": "PUNE",
+        "district": "PUNE",
+        "state": "MAHARASHTRA",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065106",
+        "bank_id": 60,
+        "branch": "PAUD PHATA",
+        "address": "MANGALAM CHAMBERS, ERANDWANA, PAUD ROAD, PUNE-411038",
+        "city": "PUNE",
+        "district": "PUNE",
+        "state": "MAHARASHTRA",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065107",
+        "bank_id": 60,
+        "branch": "BANER ROAD",
+        "address": "TEJAS ETERNITY, S. NO. 134, H. NO.5,6/1, BANER BALEWADI RD, BANER, PUNE 411045",
+        "city": "PUNE",
+        "district": "PUNE",
+        "state": "MAHARASHTRA",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065108",
+        "bank_id": 60,
+        "branch": "DHANKAWADI",
+        "address": "SHIVSMARAK SAMITI, PUNE-SATARA ROAD,DHANKWADI, PUNE-411037",
+        "city": "PUNE",
+        "district": "PUNE",
+        "state": "MAHARASHTRA",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065109",
+        "bank_id": 60,
+        "branch": "WAGHOLI",
+        "address": "620, PUNE NAGAR ROAD, WAGHOLI, TAL.HAVELI, PUNE-412207",
+        "city": "PUNE",
+        "district": "PUNE",
+        "state": "MAHARASHTRA",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065110",
+        "bank_id": 60,
+        "branch": "SINHAGAD ROAD",
+        "address": "SHOWROOM NO. 1 AND 3, SUNIT RIDDHI BLDG, PLOT NO. 2B, FINAL PLOT NO. 545, S. NO. 120A, 120B, PARVATI, SINHAGAD RD, PUNE 411030",
+        "city": "PUNE",
+        "district": "PUNE",
+        "state": "MAHARASHTRA",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065111",
+        "bank_id": 60,
+        "branch": "DECCAN GYMKHANA",
+        "address": "AMIT SAMRUDDHI, OFF. J.M.ROAD, SHIVAJI NAGAR, PUNE-411004",
+        "city": "PUNE",
+        "district": "PUNE",
+        "state": "MAHARASHTRA",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065112",
+        "bank_id": 60,
+        "branch": "NAGPUR",
+        "address": "BHAGVAN HOUSE, GROUND FLOOR, WARDHA ROAD, WARDHA ROAD, NAGPUR WARDHA ROAD, NAGPUR",
+        "city": "NAGPUR",
+        "district": "NAGPUR",
+        "state": "MAHARASHTRA",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065113",
+        "bank_id": 60,
+        "branch": "AURANGABAD",
+        "address": "AMDANI CHAMBERS, GROUND FLOOR, NEW GULMANDI ROAD, DALAL WADI, AURANGABAD- 431 001.",
+        "city": "AURANGABAD",
+        "district": "AURANGABAD",
+        "state": "MAHARASHTRA",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065114",
+        "bank_id": 60,
+        "branch": "KANKAVLI",
+        "address": "3/16, A-1-B, GROUND FLOOR, HISSA NO.29, SURVEY NO.204, MUMABAI GOA HIGHWAY, AT AND POST - KANKAVLI, DIST - SINDHUDURG 416602",
+        "city": "KANKAVLI",
+        "district": "SINDHUDURG",
+        "state": "MAHARASHTRA",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065115",
+        "bank_id": 60,
+        "branch": "NASHIK",
+        "address": "SHOP NO. 3 & 4 & OFFICE NO.4,5 & 6 LUCKY PALACE APARTMENTS, CANARA CORNER, SHARANPUR TRIMBAK ROAD, NASHIK 422 005",
+        "city": "NASHIK",
+        "district": "NASIK",
+        "state": "MAHARASHTRA",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ADCB0000002",
+        "bank_id": 143,
+        "branch": "BANGALORE",
+        "address": "CITI CENTRE, 28, CHURCH STREET, OFF M. G. ROAD BANGALORE 560001",
+        "city": "BANGALORE",
+        "district": "BANGALORE URBAN",
+        "state": "KARNATAKA",
+        "bank_name": "ABU DHABI COMMERCIAL BANK"
+    },
+    {
+        "ifsc": "ABHY0065116",
+        "bank_id": 60,
+        "branch": "CHAKAN BRANCH",
+        "address": "ANAND BUILDING, MAIN BAZAR PETH, NEAR CHAKAN S.T. STAND, OLD PUNE NASHIK ROAD, CHAKAN, DIST PUNE 410 501",
+        "city": "CHAKAN",
+        "district": "PUNE",
+        "state": "MAHARASHTRA",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065117",
+        "bank_id": 60,
+        "branch": "AMBAD",
+        "address": "SHO NO.1-5, LOTUS PLAZA, TRIMURTI CHOWK, AMBAD-LINK ROAD, CIDCO, NEW NASHIK NASHIK-422008",
+        "city": "NASHIK",
+        "district": "NASIK",
+        "state": "MAHARASHTRA",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065118",
+        "bank_id": 60,
+        "branch": "NASHIK ROAD",
+        "address": "RAJAN COMPLEX, DATTA MANDIR STOP, NASHIK-PUNE HIGHWAY, NASHIK 422 101",
+        "city": "NASHIK",
+        "district": "NASIK",
+        "state": "MAHARASHTRA",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065119",
+        "bank_id": 60,
+        "branch": "GARKHEDA",
+        "address": "SHOP NO.1 & 2, MALANI CHAMBERS, PLOT NO.5, SHIVAJI NAGAR ROAD, GARKHEDA, AURANGABAD 431005",
+        "city": "AURANGABAD",
+        "district": "AURANGABAD",
+        "state": "MAHARASHTRA",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065120",
+        "bank_id": 60,
+        "branch": "ASHOK NAGAR",
+        "address": "GROUND FLOOR, 69, ASHOKNAGAR, WORKSHOP-BHAGYANAGAR ROAD, NANDED, DIST NANDED - 431605",
+        "city": "NANDED",
+        "district": "NANDED",
+        "state": "MAHARASHTRA",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065121",
+        "bank_id": 60,
+        "branch": "C.A. ROAD",
+        "address": "GANDHI GRAIN MARKET, OLD BAGADGANJ LAYOUT, CHAPRU CHOWK, CENTRAL AVENUE ROAD, NAGPUR - 440 008.",
+        "city": "NAGPUR",
+        "district": "NAGPUR",
+        "state": "MAHARASHTRA",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065122",
+        "bank_id": 60,
+        "branch": "DABHADE TALEGAON",
+        "address": "AMBIKA CORNER APARTMENT, PLOT NO. 6 & 7, LAXMIBAUG COLONY, TALEGAON DABHADE TAL. MAWAL, DIST. PUNE - 410506",
+        "city": "TALEGAONDABHADE",
+        "district": "PUNE",
+        "state": "MAHARASHTRA",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065123",
+        "bank_id": 60,
+        "branch": "SAMRAT NAGAR",
+        "address": "PLOT NO. 10, 11, 12(D), THE NANDED TOWN MARKET AREA, SAMRAT NAGAR, NEAR ANNABHAU SATHE CHOWK, NANDED - 431 602.",
+        "city": "NANDED",
+        "district": "NANDED",
+        "state": "MAHARASHTRA",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065124",
+        "bank_id": 60,
+        "branch": "INDIRA NAGAR",
+        "address": "GROUND FLOOR, MADHUSUDAN PARK, C BUILDING, WADALA PATHARDI ROAD, INDIRA NAGAR, NASHIK - 422 009",
+        "city": "NASHIK",
+        "district": "NASIK",
+        "state": "MAHARASHTRA",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065125",
+        "bank_id": 60,
+        "branch": "PANCHAVATI",
+        "address": "4614, LAXMI RESIDENCY, PETH ROAD, PANCHAVATI, NASHIK - 422 003.",
+        "city": "NASHIK",
+        "district": "NASIK",
+        "state": "MAHARASHTRA",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065126",
+        "bank_id": 60,
+        "branch": "AHMEDNAGAR",
+        "address": "SAI MIDAS TOUCH, SHOP NO. 7 AND 8, PLOT NO. 101 SLASH 86, NAGAR MANMAD ROAD, SAVEDI ROAD, AHMEDNAGAR 414003",
+        "city": "AHMEDNAGAR",
+        "district": "AHMEDNAGAR",
+        "state": "MAHARASHTRA",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065201",
+        "bank_id": 60,
+        "branch": "MANDVI",
+        "address": "SHREE KRISHNA BHAVAN, NEAR CHAMPANER GATE,  3259 BANK ROAD, VADODARA 390006,",
+        "city": "VADODARA",
+        "district": "VADODARA",
+        "state": "GUJARAT",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065202",
+        "bank_id": 60,
+        "branch": "MITHAKHALI",
+        "address": "JAYMANGAL HOUSE, BLOCK B, NEAR GANDHIGRAM RLY, STATION, ELLISBRIDGE, AHMEDABAD- 380 009.",
+        "city": "AHMEDABAD",
+        "district": "AHMEDABAD",
+        "state": "GUJARAT",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065203",
+        "bank_id": 60,
+        "branch": "MANEKCHOWK",
+        "address": "DAHINI KHADKI, MANEKCHOWK, AHMEDABAD- 380 221.",
+        "city": "AHMEDABAD",
+        "district": "AHMEDABAD",
+        "state": "GUJARAT",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065204",
+        "bank_id": 60,
+        "branch": "RAIPUR",
+        "address": "BLOCK NO.E/1, GHANTAKARNA MAHAVIR CLOTH MARKET, RAIPUR, AHMEDABAD- 380 002.",
+        "city": "AHMEDABAD",
+        "district": "AHMEDABAD",
+        "state": "GUJARAT",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065205",
+        "bank_id": 60,
+        "branch": "ODHAV",
+        "address": "HARSHAD CHAMBERS, OPP. VALLABHNAGAR, ODHAV, AHMEDABAD - 380 021",
+        "city": "AHMEDABAD",
+        "district": "AHMEDABAD",
+        "state": "GUJARAT",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065208",
+        "bank_id": 60,
+        "branch": "GHATLODIYA",
+        "address": "1, SATYAM, MANJUSHRI SOCIETY, GHATLODIA, AHMEDABAD- 380 061.",
+        "city": "AHMEDABAD",
+        "district": "AHMEDABAD",
+        "state": "GUJARAT",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065301",
+        "bank_id": 60,
+        "branch": "MAIN BR UDUPI",
+        "address": "SRI KANIYOOR BLDG, CAR STREET, UDUPI,  TEH. UDUPI, 576 101",
+        "city": "UDUPI",
+        "district": "UDUPI",
+        "state": "KARNATAKA",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065302",
+        "bank_id": 60,
+        "branch": "CITY",
+        "address": "SHAMBHAVI FORTUNE, BEHIND K S R T C BUS STAND, UDUPI -576101",
+        "city": "UDUPI",
+        "district": "UDUPI",
+        "state": "KARNATAKA",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065304",
+        "bank_id": 60,
+        "branch": "SHIRVA",
+        "address": "SHIRVA, TEH. UDUPI, 574 116",
+        "city": "UDUPI",
+        "district": "UDUPI",
+        "state": "KARNATAKA",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065305",
+        "bank_id": 60,
+        "branch": "PADUBIDRI",
+        "address": "SHRI SHAKTHI COMPLEX, NH-66, NADSAL VILLAGE, PADUBIDRI, UDUPI-DIST, 574111",
+        "city": "UDUPI",
+        "district": "DAKSHINA KANNADA",
+        "state": "KARNATAKA",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABHY0065306",
+        "bank_id": 60,
+        "branch": "MANGALORE",
+        "address": "SHOP NO. 4, JANVI PLAZA, NEAR BUNTS HOSTEL, KARANGLAPADY, MANGALORE-575003",
+        "city": "MANGALORE",
+        "district": "DAKSHINA KANNADA",
+        "state": "KARNATAKA",
+        "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "ifsc": "ABNA0000001",
+        "bank_id": 110,
+        "branch": "RTGS-HO",
+        "address": "414 EMPIRE COMPLEX, SENAPATI BAPAT MARG LOWER PAREL WEST MUMBAI 400013",
+        "city": "MUMBAI",
+        "district": "GREATER BOMBAY",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE ROYAL BANK OF SCOTLAND N V"
+    },
+    {
+        "ifsc": "ABNA0100310",
+        "bank_id": 110,
+        "branch": "BRADY HOUSE  MUMBAI",
+        "address": "BRADY HOUSE,14 VEER NARIMAN ROAD,FORT, MUMBAI - 400023",
+        "city": "MUMBAI",
+        "district": "GREATER BOMBAY",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE ROYAL BANK OF SCOTLAND N V"
+    },
+    {
+        "ifsc": "ABNA0100311",
+        "bank_id": 110,
+        "branch": "CAMAC STREET  KOLKATA",
+        "address": "AZIMGANJ HOUSE, 7 CAMAC STREET, KOLKATA - 700017",
+        "city": "KOLKATA",
+        "district": "KOLKATA",
+        "state": "WEST BENGAL",
+        "bank_name": "THE ROYAL BANK OF SCOTLAND N V"
+    },
+    {
+        "ifsc": "ABNA0100312",
+        "bank_id": 110,
+        "branch": "HANSALAYA  NEW DELHI",
+        "address": "HANSALAYA BUILDING, 15, BARAKHAMBA ROAD, NEW DELHI - 110001",
+        "city": "DELHI",
+        "district": "NEW DELHI",
+        "state": "DELHI",
+        "bank_name": "THE ROYAL BANK OF SCOTLAND N V"
+    },
+    {
+        "ifsc": "ABNA0100313",
+        "bank_id": 110,
+        "branch": "CHENNAI",
+        "address": "KRM TOWERS,NO 1 HARRINGTON ROAD,CHETPET, CHENNAI 600031",
+        "city": "CHENNAI",
+        "district": "CHENNAI",
+        "state": "TAMIL NADU",
+        "bank_name": "THE ROYAL BANK OF SCOTLAND N V"
+    },
+    {
+        "ifsc": "ABNA0100314",
+        "bank_id": 110,
+        "branch": "PUNE",
+        "address": "327, MAHATMA GANDHI ROAD, PUNE CAMP, PUNE - 411001",
+        "city": "PUNE",
+        "district": "PUNE",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE ROYAL BANK OF SCOTLAND N V"
+    },
+    {
+        "ifsc": "ABNA0100316",
+        "bank_id": 110,
+        "branch": "BARODA",
+        "address": "7, ALKAPURI, R.C. DUTT ROAD, BARODA - 390 007",
+        "city": "VADODARA",
+        "district": "VADODARA",
+        "state": "GUJARAT",
+        "bank_name": "THE ROYAL BANK OF SCOTLAND N V"
+    },
+    {
+        "ifsc": "ABNA0100317",
+        "bank_id": 110,
+        "branch": "HYDERABAD",
+        "address": "6-3-248/1/1/A, ROAD NO. 1, BANJARA HILLS, HYDERABAD - 500034",
+        "city": "HYDERABAD",
+        "district": "HYDERABAD URBAN",
+        "state": "ANDHRA PRADESH",
+        "bank_name": "THE ROYAL BANK OF SCOTLAND N V"
+    },
+    {
+        "ifsc": "ABNA0100318",
+        "bank_id": 110,
+        "branch": "BANGALORE",
+        "address": "PRESTIGE TOWERS', GROUND FLOOR, 99 & 100, RESIDENCY ROAD, BANGALORE 560 025.",
+        "city": "BANGALORE",
+        "district": "BANGALORE URBAN",
+        "state": "KARNATAKA",
+        "bank_name": "THE ROYAL BANK OF SCOTLAND N V"
+    },
+    {
+        "ifsc": "ABNA0100326",
+        "bank_id": 110,
+        "branch": "MANGALORE",
+        "address": "MAXIMUS COMMERCIAL COMPLEX, LIGHT HOUSE HILL ROAD, MANGALORE - 575001",
+        "city": "MANGALORE",
+        "district": "DAKSHINA KANNADA",
+        "state": "KARNATAKA",
+        "bank_name": "THE ROYAL BANK OF SCOTLAND N V"
+    },
+    {
+        "ifsc": "ABNA0100327",
+        "bank_id": 110,
+        "branch": "HAUZ KHAS  NEW DELHI",
+        "address": "M-6 HAUZ KHAS, NEW DELHI 110016",
+        "city": "DELHI",
+        "district": "NEW DELHI",
+        "state": "DELHI",
+        "bank_name": "THE ROYAL BANK OF SCOTLAND N V"
+    },
+    {
+        "ifsc": "ABNA0100328",
+        "bank_id": 110,
+        "branch": "GK 1  NEW DELHI",
+        "address": "R-67, GREATER KAILASH-I, NEW DELHI - 110048",
+        "city": "DELHI",
+        "district": "NEW DELHI",
+        "state": "DELHI",
+        "bank_name": "THE ROYAL BANK OF SCOTLAND N V"
+    },
+    {
+        "ifsc": "ABNA0100329",
+        "bank_id": 110,
+        "branch": "RAJOURI GARDEN  NEW DELHI",
+        "address": "J-12/11 RAJOURI GARDEN,NEW DELHI-110027",
+        "city": "DELHI",
+        "district": "NEW DELHI",
+        "state": "DELHI",
+        "bank_name": "THE ROYAL BANK OF SCOTLAND N V"
+    },
+    {
+        "ifsc": "ABNA0100330",
+        "bank_id": 110,
+        "branch": "GURGAON",
+        "address": "VATIKA FIRST INDIA PLACE, TOWER B GROUND FLOOR, BLOCK A SUSHANT LOK PHASE I, MEHRAULI GURGAON ROAD, GURGAON - 122 002",
+        "city": "GURGAON",
+        "district": "GURGAON",
+        "state": "HARYANA",
+        "bank_name": "THE ROYAL BANK OF SCOTLAND N V"
+    },
+    {
+        "ifsc": "ABNA0100331",
+        "bank_id": 110,
+        "branch": "KOLHAPUR",
+        "address": "GROUND FLOOR, ANANT TOWERS , 1115 K-1 SHAHUPURI, KOLHAPUR - 416001",
+        "city": "KOLHAPUR",
+        "district": "KOLHAPUR",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE ROYAL BANK OF SCOTLAND N V"
+    },
+    {
+        "ifsc": "ABNA0100332",
+        "bank_id": 110,
+        "branch": "BRABOURNE ROAD  KOLKATA",
+        "address": "18 A, BRABOURNE ROAD, KOLKATA - 700001",
+        "city": "KOLKATA",
+        "district": "KOLKATA",
+        "state": "WEST BENGAL",
+        "bank_name": "THE ROYAL BANK OF SCOTLAND N V"
+    },
+    {
+        "ifsc": "ABNA0100333",
+        "bank_id": 110,
+        "branch": "SALT LAKE CITY  KOLKATA",
+        "address": "CD-16 , SECTOR - 1, SALT LAKE CITY, KOLKATA - 700064",
+        "city": "KOLKATA",
+        "district": "KOLKATA",
+        "state": "WEST BENGAL",
+        "bank_name": "THE ROYAL BANK OF SCOTLAND N V"
+    },
+    {
+        "ifsc": "ABNA0100335",
+        "bank_id": 110,
+        "branch": "JUHU  MUMBAI",
+        "address": "GROUND & FIRST FLOOR, DURU HOUSE, JUHU TARA ROAD, JUHU, MUMBAI - 400049",
+        "city": "MUMBAI",
+        "district": "GREATER BOMBAY",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE ROYAL BANK OF SCOTLAND N V"
+    },
+    {
+        "ifsc": "ABNA0100336",
+        "bank_id": 110,
+        "branch": "NOIDA",
+        "address": "OCEAN HEIGHTS, K - 4 SECTOR 18, NOIDA - 201301",
+        "city": "NOIDA",
+        "district": "GAUTAM BODDA NAGAR",
+        "state": "UTTAR PRADESH",
+        "bank_name": "THE ROYAL BANK OF SCOTLAND N V"
+    },
+    {
+        "ifsc": "ABNA0100337",
+        "bank_id": 110,
+        "branch": "UDAIPUR",
+        "address": "SHUBH APPT, GROUND FLOOR , PLOT NO. 99, L ROAD, BHUPALPURA, VERMA CIRCLE, OPP. COLLECTOR BUNGALOW, UDAIPUR - 313001",
+        "city": "UDAIPUR",
+        "district": "UDAIPUR",
+        "state": "RAJASTHAN",
+        "bank_name": "THE ROYAL BANK OF SCOTLAND N V"
+    },
+    {
+        "ifsc": "ABNA0100338",
+        "bank_id": 110,
+        "branch": "AGRA",
+        "address": "KHASRA NO.71&72 VILLAGE MAUZA DEHTURA, TEHSIL AND DISTRICT AGRA - 282 007",
+        "city": "AGRA",
+        "district": "AGRA",
+        "state": "UTTAR PRADESH",
+        "bank_name": "THE ROYAL BANK OF SCOTLAND N V"
+    },
+    {
+        "ifsc": "ABNA0100339",
+        "bank_id": 110,
+        "branch": "JODHPUR",
+        "address": "KHASRA NO.9/4,OPP.IOCL PUNP,MAIN SALAWAS ROAD, BASNI PHASE - II, VILLAGE SANGARIYA, TEHSIL JODHPUR- 324005",
+        "city": "JODHPUR",
+        "district": "JODHPUR",
+        "state": "RAJASTHAN",
+        "bank_name": "THE ROYAL BANK OF SCOTLAND N V"
+    },
+    {
+        "ifsc": "ABNA0100340",
+        "bank_id": 110,
+        "branch": "JALANDHAR",
+        "address": "MIDLAND FINANCIAL CENTRE,GROUND FLOOR, 21-22, G.T. ROAD,JALANDHAR, PUNJAB- 144001",
+        "city": "JALANDHAR",
+        "district": "JALANDHAR",
+        "state": "PUNJAB",
+        "bank_name": "THE ROYAL BANK OF SCOTLAND N V"
+    },
+    {
+        "ifsc": "ABNA0101310",
+        "bank_id": 110,
+        "branch": "TREASURY",
+        "address": "SAKHAR BHAVAN, 8TH FLOOR, NARIMAN ROAD,MUMBAI 400 021",
+        "city": "MUMBAI",
+        "district": "MUMBAI",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE ROYAL BANK OF SCOTLAND N V"
+    },
+    {
+        "ifsc": "ABNA0200001",
+        "bank_id": 110,
+        "branch": "SAKHAR BHAVAN  MUMBAI",
+        "address": "SAKHAR BHAVAN, NARIMAN POINT,MUMBAI - 400021.",
+        "city": "MUMBAI",
+        "district": "GREATER BOMBAY",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE ROYAL BANK OF SCOTLAND N V"
+    },
+    {
+        "ifsc": "ABNA0NEFT02",
+        "bank_id": 110,
+        "branch": "LOWER PAREL WEST MUMBAI",
+        "address": "ABN AMRO BANK,414 EMPIRE COMPLEX,SENAPATI BAPAT MARG LOWER PAREL WEST MUMBAI 400013",
+        "city": "MUMBAI",
+        "district": "MUMBAI",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE ROYAL BANK OF SCOTLAND N V"
+    },
+    {
+        "ifsc": "ADCB0000001",
+        "bank_id": 143,
+        "branch": "RTGS-HO",
+        "address": "75, REHMAT MANZIL, V. N. ROAD, CURCHGATE, MUMBAI - 400020",
+        "city": "MUMBAI",
+        "district": "MUMBAI CITY",
+        "state": "MAHARASHTRA",
+        "bank_name": "ABU DHABI COMMERCIAL BANK"
+    },
+    {
+        "ifsc": "ADCC0000001",
+        "bank_id": 61,
+        "branch": "RTGS-HO",
+        "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD., P.B.NO. 8, CIVIL LINES, S.A. COLLEGE ROAD, AKOLA. 444001",
+        "city": "AKOLA",
+        "district": "AKOLA",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK"
+    },
+    {
+        "ifsc": "ADCC0000002",
+        "bank_id": 61,
+        "branch": "MARKET YARD BRANCH - AKOLA",
+        "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH MARKET YARD, APMC, NEAR SHIVAJI COLLEGE, AKOLA. 444001",
+        "city": "AKOLA",
+        "district": "AKOLA",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK"
+    },
+    {
+        "ifsc": "ADCC0000003",
+        "bank_id": 61,
+        "branch": "KAPAD BAZAR BRANCH - AKOLA",
+        "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD., BRANCH KAPAD BAZAR,TILAK ROAD, RAYAT HAWELI, AKOLA. 444001",
+        "city": "AKOLA",
+        "district": "AKOLA",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK"
+    },
+    {
+        "ifsc": "ADCC0000004",
+        "bank_id": 61,
+        "branch": "SHRI RAJESHWAR BRANCH - AKOLA",
+        "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD., JAI HIND CHOWK, OLD CITY, AKOLA. 444002",
+        "city": "AKOLA",
+        "district": "AKOLA",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK"
+    },
+    {
+        "ifsc": "ADCC0000005",
+        "bank_id": 61,
+        "branch": "ZP BRANCH - AKOLA",
+        "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD., BRANCH Z.P., NEAR COLLECTOR OFFICE, AKOLA. 444001",
+        "city": "AKOLA",
+        "district": "AKOLA",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK"
+    },
+    {
+        "ifsc": "ADCC0000006",
+        "bank_id": 61,
+        "branch": "CIVIL LINES BRANCH - AKOLA",
+        "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD., CIVIL LINES BRANCH, S.A. COLLEGE ROAD, AKOLA. 444001",
+        "city": "AKOLA",
+        "district": "AKOLA",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK"
+    },
+    {
+        "ifsc": "ADCC0000007",
+        "bank_id": 61,
+        "branch": "MAHILA BRANCH - AKOLA",
+        "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD., RAMDAS PETH, NEAR BIRLA GATE, AKOLA. 444005",
+        "city": "AKOLA",
+        "district": "AKOLA",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK"
+    },
+    {
+        "ifsc": "ADCC0000008",
+        "bank_id": 61,
+        "branch": "SAH.MAH.DR.ANNASAHEB KORPE NGR BR-AKOLA",
+        "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD., ADARSH COLONY, NEAR ADARSH VIDYALAYA, AKOLA. 444005",
+        "city": "AKOLA",
+        "district": "AKOLA",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK"
+    },
+    {
+        "ifsc": "ADCC0000009",
+        "bank_id": 61,
+        "branch": "DR.PDKV BRANCH - AKOLA",
+        "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD., IN P.D.K.V. PREMICES, AKOLA. 444004",
+        "city": "AKOLA",
+        "district": "AKOLA",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK"
+    },
+    {
+        "ifsc": "ADCC0000010",
+        "bank_id": 61,
+        "branch": "DABKI ROAD BRANCH - AKOLA",
+        "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH DABKI ROAD, NEAR KHANDELWAL HIGH SCHOOL, GODBOLE PLOT, DABKI ROAD, OLD CITY, AKOLA. 444002",
+        "city": "AKOLA",
+        "district": "AKOLA",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK"
+    },
+    {
+        "ifsc": "ADCC0000011",
+        "bank_id": 61,
+        "branch": "TUKARAM SQUARE BRANCH - AKOLA",
+        "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD., BRANCH TUKARAM CHOWK, SANT TUKARAM HOSPITAL CHOWK, GORAKSHAN ROAD, AKOLA. 444002",
+        "city": "AKOLA",
+        "district": "AKOLA",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK"
+    },
+    {
+        "ifsc": "ADCC0000012",
+        "bank_id": 61,
+        "branch": "BORGAON MANJU BRANCH",
+        "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD., BRANCH BORGAON MANJU AT. PO. BORGAON MANJU, TQ. DIST. AKOLA. 444102",
+        "city": "BORGAON-MANJU",
+        "district": "AKOLA",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK"
+    },
+    {
+        "ifsc": "ADCC0000013",
+        "bank_id": 61,
+        "branch": "PALSO BADHE BRANCH",
+        "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD., BRANCH PALSO, AT. PO. PALSO, TQ. DIST. AKOLA. 444102",
+        "city": "PALSO",
+        "district": "AKOLA",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK"
+    },
+    {
+        "ifsc": "ADCC0000014",
+        "bank_id": 61,
+        "branch": "MHAISANG BRANCH",
+        "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD., BRANCH MHAISANG, AT. PO. MHAISANG, TQ. DIST. AKOLA. 444003",
+        "city": "MHYSANG",
+        "district": "AKOLA",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK"
+    },
+    {
+        "ifsc": "ADCC0000015",
+        "bank_id": 61,
+        "branch": "KANSHIVANI BRANCH",
+        "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD., BRANCH KANSHIVANI, AT. PO. KANSHIVANI, TQ. DIST. AKOLA 444102",
+        "city": "AKOLA",
+        "district": "AKOLA",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK"
+    },
+    {
+        "ifsc": "ADCC0000016",
+        "bank_id": 61,
+        "branch": "GANDHIGRAM BRANCH",
+        "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH GANDHIGRAM, AT. PO. GANDHIGRAM, TQ. DIST.AKOLA. 444006",
+        "city": "GANDHIGRAM",
+        "district": "AKOLA",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK"
+    },
+    {
+        "ifsc": "ADCC0000017",
+        "bank_id": 61,
+        "branch": "CHIKHALGAON BRANCH",
+        "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BR. CHIKHALGAON, AT.PO. CHIKHALGAON, TQ. DIST. AKOLA. 444006",
+        "city": "AKOLA",
+        "district": "AKOLA",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK"
+    },
+    {
+        "ifsc": "ADCC0000018",
+        "bank_id": 61,
+        "branch": "DAHIHANDA ┬áBRANCH",
+        "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH DAHIHANDA, AT. PO. DAHIHANDA, TQ. DIST. AKOLA. 444111",
+        "city": "GANDHIGRAM",
+        "district": "AKOLA",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK"
+    },
+    {
+        "ifsc": "ADCC0000019",
+        "bank_id": 61,
+        "branch": "PATUR NANDAPUR BRANCH",
+        "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH PATUR NANDAPUR, AT. PO. PATUR NANDAPUR, TQ.DIST. AKOLA. 444407",
+        "city": "PATUR NANDAPUR",
+        "district": "AKOLA",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK"
+    },
+    {
+        "ifsc": "ADCC0000020",
+        "bank_id": 61,
+        "branch": "KURANKHED BRANCH",
+        "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH KURANKHED, AT. PO. KURANKHED, TQ.DIST.AKOLA. 444102",
+        "city": "KURANKHED",
+        "district": "AKOLA",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK"
+    },
+    {
+        "ifsc": "ADCC0000021",
+        "bank_id": 61,
+        "branch": "GOREGAON KHURD BRANCH",
+        "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD., BRANCH GOREGAON KD., AT. PO. GOREGAON KD., TQ. DIST. AKOLA. 444102",
+        "city": "GOREGAON(KHURD)",
+        "district": "AKOLA",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK"
+    },
+    {
+        "ifsc": "ADCC0000022",
+        "bank_id": 61,
+        "branch": "UMRI BRANCH",
+        "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD., JATHARPETH, UMARI ROAD, NEAR PATIL MARKET, AKOLA.  444005",
+        "city": "UMRI",
+        "district": "AKOLA",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK"
+    },
+    {
+        "ifsc": "ADCC0000023",
+        "bank_id": 61,
+        "branch": "KHADAKI-CHANDUR BRANCH",
+        "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD., BRANCH KHADKI BK., AT. KHADKI BK., PO. CHANDUR, TQ. DIST. AKOLA. 444004",
+        "city": "AKOLA",
+        "district": "AKOLA",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK"
+    },
+    {
+        "ifsc": "ADCC0000024",
+        "bank_id": 61,
+        "branch": "RANPISE NAGAR BRANCH - AKOLA",
+        "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD., BRANCH RANPISE NAGAR, RANPISE NAGAR, AKOLA. 444001",
+        "city": "AKOLA",
+        "district": "AKOLA",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK"
+    },
+    {
+        "ifsc": "ADCC0000025",
+        "bank_id": 61,
+        "branch": "AAGAR BRANCH",
+        "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD., BRANCH AGAR, AT. PO. AGAR, TQ. DIST. AKOLA.  444006",
+        "city": "AKOLA",
+        "district": "AKOLA",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK"
+    },
+    {
+        "ifsc": "ADCC0000026",
+        "bank_id": 61,
+        "branch": "RATANLAL PLOTS BRANCH - AKOLA",
+        "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD., BRANCH RATANLAL PLOT, NEAR RAGHUVANSHI MANGAL KARYALAYA, RATANLAL PLOT, AKOLA. 444001",
+        "city": "AKOLA",
+        "district": "AKOLA",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK"
+    },
+    {
+        "ifsc": "ADCC0000028",
+        "bank_id": 61,
+        "branch": "BARSHITAKLI BRANCH",
+        "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD., BRANCH BARSHITAKLI, AT. PO. TQ. BARSHITAKLI, DIST. AKOLA. 444401",
+        "city": "BARSI-TAKLI",
+        "district": "AKOLA",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK"
+    },
+    {
+        "ifsc": "ADCC0000029",
+        "bank_id": 61,
+        "branch": "PINJAR BRANCH",
+        "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD., BRANCH PINJAR, AT. PO. PINJAR, TQ. BARSHITAKLI, DIST. AKOLA. 444407",
+        "city": "PINJAR",
+        "district": "AKOLA",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK"
+    },
+    {
+        "ifsc": "ADCC0000030",
+        "bank_id": 61,
+        "branch": "MAHAN BRANCH",
+        "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD., BRANCH MAHAN, AT. PO. MAHAN, TQ. BARSHITAKLI, DIST. AKOLA. 444405",
+        "city": "MAHAN",
+        "district": "AKOLA",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK"
+    },
+    {
+        "ifsc": "ADCC0000031",
+        "bank_id": 61,
+        "branch": "KANHERI SARAP BRANCH",
+        "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD., BRANCH KANHERI SARAP, AT. PO. KANHERI SARAP, TQ. BARSHITAKLI, DIST. AKOLA. 444401",
+        "city": "KANHERI SARAP",
+        "district": "AKOLA",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK"
+    },
+    {
+        "ifsc": "ADCC0000032",
+        "bank_id": 61,
+        "branch": "DHABA BRANCH",
+        "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD., BRANCH DHABA, AT. PO. DHABA, TQ. BARSHITAKLI, DIST. AKOLA. 444401",
+        "city": "DHABA",
+        "district": "AKOLA",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK"
+    },
+    {
+        "ifsc": "ADCC0000033",
+        "bank_id": 61,
+        "branch": "AKOT MAIN BRANCH",
+        "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD., BRANCH AKOT MAIN, AT. PO. TQ. AKOT, DIST. AKOLA. 444101",
+        "city": "AKOT",
+        "district": "AKOLA",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK"
+    },
+    {
+        "ifsc": "ADCC0000034",
+        "bank_id": 61,
+        "branch": "AKOT CITY BRANCH",
+        "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD., BRANCH AKOT CITY, AT. PO. TQ. AKOT, DIST. AKOLA. 444101",
+        "city": "AKOT",
+        "district": "AKOLA",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK"
+    },
+    {
+        "ifsc": "ADCC0000035",
+        "bank_id": 61,
+        "branch": "AKOT NARSING MANDIR BRANCH",
+        "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH NARSING MANDIR, AT. PO. TQ. AKOT, DIST. AKOLA. 444101",
+        "city": "AKOT",
+        "district": "AKOLA",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK"
+    },
+    {
+        "ifsc": "ADCC0000036",
+        "bank_id": 61,
+        "branch": "SAVARA BRANCH",
+        "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD., BRANCH SAVARA, AT. PO. SAVARA, TQ. AKOT, DIST. AKOLA. 444101",
+        "city": "AKOT",
+        "district": "AKOLA",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK"
+    },
+    {
+        "ifsc": "ADCC0000037",
+        "bank_id": 61,
+        "branch": "RAUNDALA BRANCH",
+        "address": "THE AKOLA DIST. CENTRAL COOP. BANK LTD., BRANCH RAUNDALA, AT PO. DEVRI PHATA PARISAR, NEAR SWAMI VIVEKANAND CONVENT. TQ. AKOT DIST. AKOLA., 444101",
+        "city": "CHAUHATTA",
+        "district": "AKOLA",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK"
+    },
+    {
+        "ifsc": "ADCC0000038",
+        "bank_id": 61,
+        "branch": "CHOHOTTA BAZAR BRANCH",
+        "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD., BRANCH CHOHOTTA BAZAR, AT. PO. CHOHOTTA BAZAR, TQ. AKOT, DIST. AKOLA. 444125",
+        "city": "CHAUHATTA",
+        "district": "AKOLA",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK"
+    },
+    {
+        "ifsc": "ADCC0000039",
+        "bank_id": 61,
+        "branch": "WARUL JAULKA BRANCH",
+        "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH WARUD JAULKA, AT. PO. WARUD JAULKA,TQ. AKOT, DIST. AKOLA. 444101",
+        "city": "CHAUHATTA",
+        "district": "AKOLA",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK"
+    },
+    {
+        "ifsc": "AKJB0000009",
+        "bank_id": 100,
+        "branch": "TAPADIA NAGAR",
+        "address": "TATYASAHEB OKE MARG, JATHARPETH CHOWK, AKOLA PIN 444 005",
+        "city": "AKOLA",
+        "district": "AKOLA",
+        "state": "MAHARASHTRA",
+        "bank_name": "AKOLA JANATA COMMERCIAL COOPERATIVE BANK"
+    },
+    {
+        "ifsc": "ADCC0000040",
+        "bank_id": 61,
+        "branch": "AKOLKHED BRANCH",
+        "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD., BRANCH AKOLKHED, AT. PO. AKOLKHED, TQ. AKOT, DIST.AKOLA. 444101",
+        "city": "AKOT",
+        "district": "AKOLA",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK"
+    },
+    {
+        "ifsc": "ADCC0000041",
+        "bank_id": 61,
+        "branch": "KUTASA BRANCH",
+        "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD., BRANCH KUTASA, AT. PO. KUTASA, TQ. AKOT, DIST. AKOLA. 444101",
+        "city": "KUTASA",
+        "district": "AKOLA",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK"
+    },
+    {
+        "ifsc": "ADCC0000042",
+        "bank_id": 61,
+        "branch": "MUNDGAON BRANCH",
+        "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD., BRANCH MUNDGAON, AT. PO. MUNDGAON, TQ. AKOT, DIST. AKOLA. 444117",
+        "city": "MUNDGAON",
+        "district": "AKOLA",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK"
+    },
+    {
+        "ifsc": "ADCC0000043",
+        "bank_id": 61,
+        "branch": "TELHARA MAIN BRANCH",
+        "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD., BRANCH TELHARA MAIN, AT. PO. TQ.TELHARA,  DIST. AKOLA. 444108",
+        "city": "TELHARA",
+        "district": "AKOLA",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK"
+    },
+    {
+        "ifsc": "ADCC0000044",
+        "bank_id": 61,
+        "branch": "TELHARA CITY BRANCH",
+        "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD., BRANCH TELHARA CITY, AT. PO. TQ.TELHARA,  DIST. AKOLA. 444108",
+        "city": "TELHARA",
+        "district": "AKOLA",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK"
+    },
+    {
+        "ifsc": "ADCC0000045",
+        "bank_id": 61,
+        "branch": "HIWARKHED BRANCH",
+        "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD., BRANCH HIWARKHED, AT. PO. HIWARKHED, TQ. TELHARA, DIST.AKOLA. 444103",
+        "city": "HIWARKHED",
+        "district": "AKOLA",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK"
+    },
+    {
+        "ifsc": "ADCC0000046",
+        "bank_id": 61,
+        "branch": "DANAPUR BRANCH",
+        "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH DANAPUR, AT. PO. DANAPUR, TQ. TELHARA, DIST.AKOLA. 444129",
+        "city": "DANAPUR",
+        "district": "AKOLA",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK"
+    },
+    {
+        "ifsc": "ADCC0000047",
+        "bank_id": 61,
+        "branch": "PATHARDI BRANCH",
+        "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD., BRANCH PATHARDI, AT. PO. PATHARDI, TQ. TELHARA, DIST.AKOLA. 444117",
+        "city": "PATHARDI",
+        "district": "AKOLA",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK"
+    },
+    {
+        "ifsc": "ADCC0000048",
+        "bank_id": 61,
+        "branch": "BELKHED BRANCH",
+        "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH BELKHED, AT. PO. BELKHED, TQ. TELHARA, DIST.AKOLA. 444108",
+        "city": "TELHARA",
+        "district": "AKOLA",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK"
+    },
+    {
+        "ifsc": "AKJB0000004",
+        "bank_id": 100,
+        "branch": "WASHIM",
+        "address": "JANVAIBHAV,RISOD NAKA, WASHIM PIN 444 505",
+        "city": "WASHIM",
+        "district": "WASHIM",
+        "state": "MAHARASHTRA",
+        "bank_name": "AKOLA JANATA COMMERCIAL COOPERATIVE BANK"
+    },
+    {
+        "ifsc": "ADCC0000049",
+        "bank_id": 61,
+        "branch": "AADSUL ┬áBRANCH",
+        "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD., BRANCH ADSUL, AT. PO. ADSUL, TQ. TELHARA, DIST. AKOLA. 444108",
+        "city": "TELHARA",
+        "district": "AKOLA",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK"
+    },
+    {
+        "ifsc": "ADCC0000050",
+        "bank_id": 61,
+        "branch": "ADGAON BUJRUK BRANCH",
+        "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD., BRANCH ADGAON, AT.PO. ADGAON, TQ. TELHARA, DIST.AKOLA. 444126",
+        "city": "ADGAON BK",
+        "district": "AKOLA",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK"
+    },
+    {
+        "ifsc": "ADCC0000051",
+        "bank_id": 61,
+        "branch": "BALAPUR BRANCH",
+        "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD., BRANCH BALAPUR, AT.PO. TQ. BALAPUR, DIST. AKOLA. 444302",
+        "city": "BALAPUR",
+        "district": "AKOLA",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK"
+    },
+    {
+        "ifsc": "ADCC0000052",
+        "bank_id": 61,
+        "branch": "URAL BRANCH",
+        "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH URAL BK., AT. PO. URAL BK., TQ. BALAPUR, DIST.AKOLA. 444311",
+        "city": "URAL(BK)",
+        "district": "AKOLA",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK"
+    },
+    {
+        "ifsc": "ADCC0000053",
+        "bank_id": 61,
+        "branch": "WADEGAON BRANCH",
+        "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH WADEGAON, AT. PO. WADEGAON, TQ. BALAPUR, DIST. AKOLA. 444502",
+        "city": "WADEGAON",
+        "district": "AKOLA",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK"
+    },
+    {
+        "ifsc": "ADCC0000054",
+        "bank_id": 61,
+        "branch": "NIMBA ┬áBRANCH",
+        "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH NIMBA, AT. PO. NIMBA, TQ. BALAPUR, DIST.AKOLA. 444311",
+        "city": "NIMBA",
+        "district": "AKOLA",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK"
+    },
+    {
+        "ifsc": "ADCC0000055",
+        "bank_id": 61,
+        "branch": "PARAS BRANCH",
+        "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH PARAS, AT. PO. PARAS, TQ. BALAPUR, DIST.AKOLA. 444109",
+        "city": "PARAS",
+        "district": "AKOLA",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK"
+    },
+    {
+        "ifsc": "ADCC0000056",
+        "bank_id": 61,
+        "branch": "HATRUN BRANCH",
+        "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH HATRUN, AT. PO. HATRUN, TQ. BALAPUR, DIST.AKOLA 444109",
+        "city": "PARAS",
+        "district": "AKOLA",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK"
+    },
+    {
+        "ifsc": "ADCC0000057",
+        "bank_id": 61,
+        "branch": "VYALA BRANCH",
+        "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH VYALA, AT. PO. VYALA, TQ. BALAPUR, DIST.AKOLA. 444302",
+        "city": "VYALA",
+        "district": "AKOLA",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK"
+    },
+    {
+        "ifsc": "ADCC0000058",
+        "bank_id": 61,
+        "branch": "PATUR ┬áBRANCH",
+        "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH PATUR, AT. PO. TQ. PATUR, DIST. AKOLA. 444501",
+        "city": "PATUR",
+        "district": "AKOLA",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK"
+    },
+    {
+        "ifsc": "ADCC0000059",
+        "bank_id": 61,
+        "branch": "CHANNI ┬áBRANCH",
+        "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH CHANNI, AT. PO. CHANNI, TQ. PATUR, DIST. AKOLA. 444501",
+        "city": "CHANNI",
+        "district": "AKOLA",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK"
+    },
+    {
+        "ifsc": "ADCC0000060",
+        "bank_id": 61,
+        "branch": "AALEGAON BRANCH",
+        "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH ALEGAON, AT. PO. ALEGAON, TQ. PATUR, DIST.AKOLA. 444511",
+        "city": "ALEGAON",
+        "district": "AKOLA",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK"
+    },
+    {
+        "ifsc": "ADCC0000061",
+        "bank_id": 61,
+        "branch": "VIWARA BABHULGAON BRANCH",
+        "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH VIWARA, AT. PO. VIWARA, TQ. PATUR, DIST. AKOLA. 444511",
+        "city": "BABULGAON",
+        "district": "AKOLA",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK"
+    },
+    {
+        "ifsc": "ADCC0000062",
+        "bank_id": 61,
+        "branch": "SASTI BRANCH",
+        "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH SASTI, AT. PO. SASTI, TQ. PATUR, DIST. AKOLA. 444501",
+        "city": "SASTI",
+        "district": "AKOLA",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK"
+    },
+    {
+        "ifsc": "ADCC0000064",
+        "bank_id": 61,
+        "branch": "MURTIJAPUR MAIN BRANCH",
+        "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH MURTIZAPUR MAIN, AT.PO.TQ. MURTIZAPUR, DIST.AKOLA. 444107",
+        "city": "MURTIZAPUR",
+        "district": "AKOLA",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK"
+    },
+    {
+        "ifsc": "ADCC0000065",
+        "bank_id": 61,
+        "branch": "MURTIJAPUR MARKET YARD BRANCH",
+        "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH MURTIZAPUR M.Y., AT.PO.TQ. MURTIZAPUR, DIST.AKOLA. 444107",
+        "city": "MURTIZAPUR",
+        "district": "AKOLA",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK"
+    },
+    {
+        "ifsc": "ADCC0000066",
+        "bank_id": 61,
+        "branch": "MURTIJAPUR CITY BRANCH",
+        "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH MURTIZAPUR CITY, AT.PO.TQ. MURTIZAPUR, DIST.AKOLA. 444107",
+        "city": "MURTIZAPUR",
+        "district": "AKOLA",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK"
+    },
+    {
+        "ifsc": "ADCC0000067",
+        "bank_id": 61,
+        "branch": "MANA BRANCH",
+        "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH MANA, AT. PO. MANA, TQ. MURTIZAPUR, DIST.AKOLA. 444106",
+        "city": "MANA",
+        "district": "AKOLA",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK"
+    },
+    {
+        "ifsc": "ADCC0000068",
+        "bank_id": 61,
+        "branch": "KURUM BRANCH",
+        "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH KURUM, AT. PO. KURUM, TQ. MURTIZAPUR, DIST.AKOLA. 444115",
+        "city": "KURUM",
+        "district": "AKOLA",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK"
+    },
+    {
+        "ifsc": "ADCC0000070",
+        "bank_id": 61,
+        "branch": "KARANJA MAIN BRANCH",
+        "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH KARANJA MAIN, AT. PO. TQ. KARANJA,  DIST.WASHIM. 444105",
+        "city": "KARANJA",
+        "district": "WASHIM",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK"
+    },
+    {
+        "ifsc": "ADCC0000071",
+        "bank_id": 61,
+        "branch": "KARANJA CITY BRANCH",
+        "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH KARANJA CITY, AT. PO. TQ. KARANJA,  DIST.WASHIM. 444105",
+        "city": "KARANJA",
+        "district": "WASHIM",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK"
+    },
+    {
+        "ifsc": "ADCC0000072",
+        "bank_id": 61,
+        "branch": "KAMARGAON BRANCH",
+        "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH KAMARGAON, AT. PO. KAMARGAON, TQ.KARANJA DIST. WASHIM. 444110",
+        "city": "KAMARGAON",
+        "district": "WASHIM",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK"
+    },
+    {
+        "ifsc": "ADCC0000073",
+        "bank_id": 61,
+        "branch": "UMBARDA BAZAR BRANCH",
+        "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH UMBARDA BAZAR, AT. PO. UMBARDA BAZAR, TQ.KARANJA, DIST. WASHIM.444102",
+        "city": "UMBARDA BAZAR",
+        "district": "WASHIM",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK"
+    },
+    {
+        "ifsc": "ADCC0000074",
+        "bank_id": 61,
+        "branch": "DHANAJ BUJRUK BRANCH",
+        "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH DHANAJ BK, AT. PO. DHANAJ BK., TQ. KARANJA, DIST. WASHIM. 444110",
+        "city": "DHANAJ BUDRUK",
+        "district": "WASHIM",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK"
+    },
+    {
+        "ifsc": "ADCC0000075",
+        "bank_id": 61,
+        "branch": "MANBHA BRANCH",
+        "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH MANBHA, AT. PO. MANBHA, TQ. KARANJA, DIST.WASHIM. 444105",
+        "city": "UMBARDA BAZAR",
+        "district": "WASHIM",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK"
+    },
+    {
+        "ifsc": "ADCC0000076",
+        "bank_id": 61,
+        "branch": "POHA BRANCH",
+        "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH POHA, AT. PO. POHA, TQ. KARANJA, DIST.WASHIM 444105",
+        "city": "KARANJA",
+        "district": "WASHIM",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK"
+    },
+    {
+        "ifsc": "ADCC0000077",
+        "bank_id": 61,
+        "branch": "KAJALESHWAR BRANCH",
+        "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH KAJALESHWAR, AT. PO. KAJALESHWAR, TQ. KARANJA DIST. WASHIM. 444017",
+        "city": "KAJALESHWAR",
+        "district": "WASHIM",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK"
+    },
+    {
+        "ifsc": "ADCC0000078",
+        "bank_id": 61,
+        "branch": "MANGRULPIR MAIN BRANCH",
+        "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH MANGRULPIR MAIN, AT. PO. TQ. MANGRULPIR, DIST.WASHIM. 444403",
+        "city": "MANGRULPIR",
+        "district": "WASHIM",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK"
+    },
+    {
+        "ifsc": "ADCC0000079",
+        "bank_id": 61,
+        "branch": "MANGRULPIR CITY BRANCH",
+        "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH MANGRULPIR CITY, AT. PO. TQ. MANGRULPIR, DIST.WASHIM. 444403",
+        "city": "MANGRULPIR",
+        "district": "WASHIM",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK"
+    },
+    {
+        "ifsc": "AKJB0000010",
+        "bank_id": 100,
+        "branch": "GORAKSHAN ROAD",
+        "address": "PRABHU PLAZA, NEAR POWER HOUSE, GORAKSHAN ROAD, AKOLA PIN 444 004",
+        "city": "AKOLA",
+        "district": "AKOLA",
+        "state": "MAHARASHTRA",
+        "bank_name": "AKOLA JANATA COMMERCIAL COOPERATIVE BANK"
+    },
+    {
+        "ifsc": "ADCC0000080",
+        "bank_id": 61,
+        "branch": "MOHARI ┬áBRANCH",
+        "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH MOHARI, AT. PO. MOHARI, TQ. MANGRULPIR, DIST.WASHIM. 444403",
+        "city": "MANGRULPIR",
+        "district": "WASHIM",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK"
+    },
+    {
+        "ifsc": "ADCC0000081",
+        "bank_id": 61,
+        "branch": "SHELU BAZAR BRANCH",
+        "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH SHELU BAZAR, AT. PO. SHELU BAZAR, TQ.MANGRULPIR, DIST. WASHIM. 444402",
+        "city": "SELU BAZAR",
+        "district": "WASHIM",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK"
+    },
+    {
+        "ifsc": "ADCC0000082",
+        "bank_id": 61,
+        "branch": "WANOJA BRANCH",
+        "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH WANOJA, AT. PO. WANOJA, TQ. MANGRULPIR, DIST.WASHIM. 444402",
+        "city": "SELU BAZAR",
+        "district": "WASHIM",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK"
+    },
+    {
+        "ifsc": "AKJB0000003",
+        "bank_id": 100,
+        "branch": "RISOD",
+        "address": "JANVAIBHAV, MAIN ROAD, CIVIL LINE, RISOD PIN 4440506",
+        "city": "RISOD",
+        "district": "WASHIM",
+        "state": "MAHARASHTRA",
+        "bank_name": "AKOLA JANATA COMMERCIAL COOPERATIVE BANK"
+    },
+    {
+        "ifsc": "ADCC0000083",
+        "bank_id": 61,
+        "branch": "DHANORA BRANCH",
+        "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH DHANORA, AT. PO. DHANORA, TQ. MANGRULPIR, DIST. WASHIM. 444507",
+        "city": "MANGRULPIR",
+        "district": "WASHIM",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK"
+    },
+    {
+        "ifsc": "ADCC0000084",
+        "bank_id": 61,
+        "branch": "MANORA BRANCH",
+        "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH MANORA, AT. PO. TQ. MANORA, DIST. WASHIM. 444404",
+        "city": "MANORA",
+        "district": "WASHIM",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK"
+    },
+    {
+        "ifsc": "ADCC0000085",
+        "bank_id": 61,
+        "branch": "SHENDURJANA BRANCH",
+        "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH SHENDURJANA, AT. PO. SHENDURJANA, TQ.MANORA, DIST. WASHIM. 444403",
+        "city": "SHENDURJANA",
+        "district": "WASHIM",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK"
+    },
+    {
+        "ifsc": "ADCC0000086",
+        "bank_id": 61,
+        "branch": "POHARADEVI BRANCH",
+        "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH POHARADEVI, AT. PO. POHARADEVI, TQ. MANORA, DIST. WASHIM. 444404",
+        "city": "POHARADEVI",
+        "district": "WASHIM",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK"
+    },
+    {
+        "ifsc": "ADCC0000087",
+        "bank_id": 61,
+        "branch": "SAKHARDOH BRANCH",
+        "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH SAKHARDOH, AT. PO. SAKHARDOH, TQ. MANORA, DIST. WASHIM. 444403",
+        "city": "MANORA",
+        "district": "WASHIM",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK"
+    },
+    {
+        "ifsc": "ADCC0000088",
+        "bank_id": 61,
+        "branch": "WASHIM MAIN BRANCH",
+        "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH WASHIM MAIN, NEAR BUS STAND, WASHIM TQ.DIST. WASHIM,  444505",
+        "city": "WASHIM",
+        "district": "WASHIM",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK"
+    },
+    {
+        "ifsc": "ADCC0000089",
+        "bank_id": 61,
+        "branch": "WASHIM CITY BRANCH",
+        "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH WASHIM CITY, SHUKRAWAR PETH, WASHIM, TQ.DIST.WASHIM. 444505",
+        "city": "WASHIM",
+        "district": "WASHIM",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK"
+    },
+    {
+        "ifsc": "ADCC0000090",
+        "bank_id": 61,
+        "branch": "ANSING BRANCH",
+        "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH ANSING, AT. PO. ANSING, TQ. DIST. WASHIM. 444507",
+        "city": "ANSING",
+        "district": "WASHIM",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK"
+    },
+    {
+        "ifsc": "ADCC0000091",
+        "bank_id": 61,
+        "branch": "TONDGAON BRANCH",
+        "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH TONDGAON, AT. PO. TONDGAON, TQ.DIST.WASHIM 444505",
+        "city": "WASHIM",
+        "district": "WASHIM",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK"
+    },
+    {
+        "ifsc": "ADCC0000092",
+        "bank_id": 61,
+        "branch": "PARDI TAKMOR BRANCH",
+        "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH PARDITAKMOR, AT. PO. PARDITAKMOR, TQ.DIST.WASHIM. 444505",
+        "city": "PARDI TAKMOR",
+        "district": "WASHIM",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK"
+    },
+    {
+        "ifsc": "ADCC0000093",
+        "bank_id": 61,
+        "branch": "MALEGAON BRANCH",
+        "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH MALEGAON, AT. PO. TQ. MALEGAON, DIST.WASHIM. 444503",
+        "city": "MALEGAON",
+        "district": "WASHIM",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK"
+    },
+    {
+        "ifsc": "ADCC0000094",
+        "bank_id": 61,
+        "branch": "KINHIRAJA BRANCH",
+        "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH KINHIRAJA, AT. PO. KINHIRAJA, TQ. MALEGAON, DIST.WASHIM. 444503",
+        "city": "KINHIRAJA",
+        "district": "WASHIM",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK"
+    },
+    {
+        "ifsc": "ADCC0000095",
+        "bank_id": 61,
+        "branch": "SHIRPUR JAIN BRANCH",
+        "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH SHIRPUR, AT. PO. SHIRPUR, TQ. MALEGAON, DIST.WASHIM. 444504",
+        "city": "SHIRPUR",
+        "district": "WASHIM",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK"
+    },
+    {
+        "ifsc": "ADCC0000096",
+        "bank_id": 61,
+        "branch": "MEDSHI BRANCH",
+        "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH MEDSHI, AT. PO. MEDSHI, TQ. MALEGAON, DIST.WASHIM. 444512",
+        "city": "MEDSHI",
+        "district": "WASHIM",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK"
+    },
+    {
+        "ifsc": "ADCC0000097",
+        "bank_id": 61,
+        "branch": "PANGRIKUTE BRANCH",
+        "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH PANGRIKUTE, AT. PO. PANGRIKUTE, TQ. MALEGAON DIST. WASHIM. 444503",
+        "city": "MALEGAON",
+        "district": "WASHIM",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK"
+    },
+    {
+        "ifsc": "ADCC0000098",
+        "bank_id": 61,
+        "branch": "JAULKA RAILWAY BRANCH",
+        "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH JAULKA RLY, AT. PO. JAULKA RLY, TQ. MALEGAON, DIST. WASHIM. 444503",
+        "city": "JAULKA",
+        "district": "WASHIM",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK"
+    },
+    {
+        "ifsc": "ADCC0000099",
+        "bank_id": 61,
+        "branch": "RISOD MAIN BRANCH",
+        "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH RISOD MAIN, AT. PO. TQ. RISOD, DIST. WASHIM. 444506",
+        "city": "RISOD",
+        "district": "WASHIM",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK"
+    },
+    {
+        "ifsc": "ADCC0000100",
+        "bank_id": 61,
+        "branch": "RISOD CITY BRANCH",
+        "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH RISOD CITY, AT. PO. TQ. RISOD, DIST. WASHIM. 444506",
+        "city": "RISOD",
+        "district": "WASHIM",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK"
+    },
+    {
+        "ifsc": "ADCC0000101",
+        "bank_id": 61,
+        "branch": "RITHAD BRANCH",
+        "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH RITHAD, AT. PO. RITHAD, TQ. RISOD, DIST.WASHIM 444510",
+        "city": "RITHAD",
+        "district": "WASHIM",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK"
+    },
+    {
+        "ifsc": "ADCC0000102",
+        "bank_id": 61,
+        "branch": "KENWAD BRANCH",
+        "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH KENWAD, AT. PO. KENWAD, TQ. RISOD, DIST.WASHIM. 444503",
+        "city": "KENWAD",
+        "district": "WASHIM",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK"
+    },
+    {
+        "ifsc": "ADCC0000103",
+        "bank_id": 61,
+        "branch": "MANGULZANAK BRANCH",
+        "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH MANGUL ZANAK, AT. PO. MANGUL ZANAK, TQ. RISOD, DIST. WASHIM. 444504",
+        "city": "MANGRUL ZANAK",
+        "district": "WASHIM",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK"
+    },
+    {
+        "ifsc": "ADCC0000104",
+        "bank_id": 61,
+        "branch": "HARAL BRANCH",
+        "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH HARAL, AT. PO. HARAL, TQ. RISOD, DIST. WASHIM. 444510",
+        "city": "RISOD",
+        "district": "WASHIM",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK"
+    },
+    {
+        "ifsc": "ADCC0000105",
+        "bank_id": 61,
+        "branch": "MOP BRANCH",
+        "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH MOP, AT. PO. MOP, TQ. RISOD, DIST. WASHIM 444506",
+        "city": "RISOD",
+        "district": "WASHIM",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK"
+    },
+    {
+        "ifsc": "ADCC0000106",
+        "bank_id": 61,
+        "branch": "KESHAV NAGAR",
+        "address": "THE AKOLA DISTRICT CENTRAL COOP. BANK LTD.,BRANCH KESHAVNAGAR, AT. PO. KESHAVNAGAR, TQ. RISOD DIST. WASHIM. 444504",
+        "city": "MASALA PEN",
+        "district": "WASHIM",
+        "state": "MAHARASHTRA",
+        "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK"
+    }
+]
