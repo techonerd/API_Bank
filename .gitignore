@@ -9,6 +9,8 @@ env/
 .pydevproject
 .settings
 .swp
+.vscode
+.vscode-test
 nbproject
 thumbs.db
 
