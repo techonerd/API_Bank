@@ -14,4 +14,3 @@ class Bank(models.Model):
     def __str__(self):
         return self.ifsc
     
-# ifsc=p['ifsc'],bank_id=p['bank_id'],branch=p['branch'],address=p['address'],city=p['city'],district=p['district'],state=p['state'],bank_name=p['bank_name']
