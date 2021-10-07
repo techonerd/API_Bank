@@ -26,7 +26,7 @@ jobs:
         pip install -r requirements.txt
     - name: Run Tests
       env: # environment variable
-        SECRET_kEY: ${{ secrets.SECRET_kEY }}
+        SECRET_kEY: ${{ secrets.SECRET_KEY }}
         DEBUG_VALUE: ${{ secrets.DEBUG_VALUE }}
       run: |
         python manage.py test
