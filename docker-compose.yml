@@ -1,0 +1,15 @@
+version: '3'
+
+services:
+    web:
+        build: .
+        environment:
+          - SECRET_KEY:te43^@=a@z7%h+fdt#0ueon7%wsfemel+lu7(&s^^kter)39q4
+          - DEBUG_VALUE:'True'
+          # - POSTGRES_USER=postgres
+          # - POSTGRES_PASSWORD=postgres
+          # SECRET_KEY: 'te43^@=a@z7%h+fdt#0ueon7%wsfemel+lu7(&s^^kter)39q4'
+          # DEBUG_VALUE: 'True'
+        command: python manage.py runserver 0.0.0.0:8000
+        ports:
+            - 8000:8000
