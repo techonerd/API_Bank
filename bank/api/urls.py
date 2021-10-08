@@ -4,6 +4,6 @@ from bank.api.views import BankListView, Banklist
 app_name = 'bank'
 
 urlpatterns = [
-    path('', Banklist, name='bank-list'),
-    path('list/',BankListView.as_view(),name="list")
+    path('bank/', Banklist, name='bank-list'),
+    path('bank/list/',BankListView.as_view(), name="list") # paginated response
 ]
