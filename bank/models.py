@@ -1,6 +1,6 @@
 from django.db import models
 
-# Create your models here.
+#Creating Bank Model
 class Bank(models.Model):
     ifsc = models.CharField(max_length=11)
     bank_id	= models.IntegerField()
