@@ -9,13 +9,13 @@ from rest_framework.decorators import api_view
 @api_view(['GET'],)
 def Banklist(request):
     # returning all data now, will implement search funtionality later.
-    Bank1=BankModel.objects.all()
+    Bank1=BankModel.objects.all().order_by('id')
     serializer_class=BankSerializer(Bank1, many=True)
     return Response(serializer_class.data)
 
 # classed based view with pagination
 class BankListView(ListAPIView):
-    queryset=BankModel.objects.all()
+    queryset=BankModel.objects.all().order_by('id')
     serializer_class=BankSerializer
     pagination_class=PageNumberPagination
 
