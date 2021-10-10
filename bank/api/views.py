@@ -9,18 +9,28 @@ from rest_framework.decorators import api_view
 @api_view(['GET'],)
 def Banklist(request):
     # returning all data now, will implement search funtionality later.
-    Bank1=BankModel.objects.all().order_by('id')
+    Bank1=BankModel.objects.all()
     serializer_class=BankSerializer(Bank1, many=True)
     return Response(serializer_class.data)
 
 # classed based view with pagination
 class BankListView(ListAPIView):
-    queryset=BankModel.objects.all().order_by('id')
+    queryset=BankModel.objects.all()
     serializer_class=BankSerializer
     pagination_class=PageNumberPagination
 
 # @api_view(['GET'],)
-# def api_detail_bank_detail(request,slug):
+# def api_detail_bank_detail(request):
+#     id = request.get("id")
+#     if id is None:
+#         return "please provide id of bank"
+#     elif id is not None:
+#         queryset=BankModel.objects.get(id='id')
+#         serializer_class=BankSerializer(queryset)
+#         return Response(serializer_class.data)
+#     else:
+#         return Response("404")
+
 #     try:
 #         bank_detail=BankModel.objects.get(slug=slug)
 #     except Bank.DoesNotExist:
